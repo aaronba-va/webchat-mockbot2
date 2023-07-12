@@ -1,5 +1,5 @@
 # Echo Bot template
-# 5
+# 6
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
